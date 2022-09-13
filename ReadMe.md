@@ -15,7 +15,7 @@ Framework contains below items.
 
 ### Below are the scenarios considerd to automate TFL and MediaWiki rest services.###
 
-Below scenarios - TFL
+Below scenarios - Mediawiki
 
 ```gherkin
 
